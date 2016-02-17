@@ -98,6 +98,14 @@
     <Compile Include="Migrations\201602161335067_te25.Designer.cs">
       <DependentUpon>201602161335067_te25.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201602171222379_ght4.cs" />
+    <Compile Include="Migrations\201602171222379_ght4.Designer.cs">
+      <DependentUpon>201602171222379_ght4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201602171723550_fgt25.cs" />
+    <Compile Include="Migrations\201602171723550_fgt25.Designer.cs">
+      <DependentUpon>201602171723550_fgt25.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Departement.cs" />
     <Compile Include="Models\Filliere.cs" />
@@ -187,6 +195,12 @@
     </Compile>
     <EmbeddedResource Include="Migrations\201602161335067_te25.resx">
       <DependentUpon>201602161335067_te25.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201602171222379_ght4.resx">
+      <DependentUpon>201602171222379_ght4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201602171723550_fgt25.resx">
+      <DependentUpon>201602171723550_fgt25.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -9,6 +9,8 @@
         public int SpecialiteId { get; set; }
         public int AnneeScolaireId { get; set; }
         public int Semestre { get; set; }
+        public int Nombre { get; set; }
+
         public Annee Annee { get; set; }
         public Specialite Specialite { get; set; }
         public AnneeScolaire AnneeScolaire { get; set; }

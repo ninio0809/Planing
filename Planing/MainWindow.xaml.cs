@@ -45,7 +45,7 @@ namespace Planing
                             break;
                         case "Spécialité": ContentControl.Content = new SpecialiteView();
                             break;
-                        case "Groupes": ContentControl.Content = new SpecialiteView();
+                        case "Groupes": ContentControl.Content = new GroupView();
                             break;
                         case "Enseignants": ContentControl.Content = new EnseignantView();
                             break;
